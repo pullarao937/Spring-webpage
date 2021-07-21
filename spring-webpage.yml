@@ -24,7 +24,7 @@ spec:
         app: springboot
     spec:
       containers:
-      - image: pullarao2/java:latest
+      - image: pullarao2/new:latest
         name: springboot
         ports:
         - containerPort: 8080  
